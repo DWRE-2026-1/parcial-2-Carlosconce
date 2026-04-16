@@ -1,3 +1,4 @@
+[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/qqbDwa5j)
 # Examen Parcial: Calculadora de Teclado Numérico con React.js
 
 ## Descripción del Problema
@@ -37,3 +38,23 @@ Al final de este archivo o en un archivo adjunto llamado `PROMPTS.md`, deberás 
 ---
 
 **¡Mucho éxito en tu desarrollo!**
+
+# Calculadora React
+
+## Deploy
+link netflify https://zingy-hummingbird-0f7f01.netlify.app/
+
+## Descripción
+Aplicación de calculadora desarrollada en React con teclado en pantalla.
+
+## Funcionalidades
+- Suma
+- Resta
+- Multiplicación
+- División
+- Validación de división por cero
+
+## Tecnologías
+- React
+- JavaScript
+- CSS

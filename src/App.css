@@ -1,0 +1,25 @@
+.calculator {
+  width: 250px;
+  margin: 50px auto;
+  text-align: center;
+}
+
+.display {
+  background: black;
+  color: lime;
+  font-size: 2rem;
+  padding: 10px;
+  margin-bottom: 10px;
+}
+
+.keypad {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 5px;
+}
+
+button {
+  padding: 15px;
+  font-size: 1.2rem;
+  cursor: pointer;
+}

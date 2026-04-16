@@ -38,3 +38,23 @@ Al final de este archivo o en un archivo adjunto llamado `PROMPTS.md`, deberás 
 ---
 
 **¡Mucho éxito en tu desarrollo!**
+
+# Calculadora React
+
+## Deploy
+
+
+## Descripción
+Aplicación de calculadora desarrollada en React con teclado en pantalla.
+
+## Funcionalidades
+- Suma
+- Resta
+- Multiplicación
+- División
+- Validación de división por cero
+
+## Tecnologías
+- React
+- JavaScript
+- CSS

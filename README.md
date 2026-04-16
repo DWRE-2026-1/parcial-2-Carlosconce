@@ -42,7 +42,7 @@ Al final de este archivo o en un archivo adjunto llamado `PROMPTS.md`, deberás 
 # Calculadora React
 
 ## Deploy
-
+link netflify https://zingy-hummingbird-0f7f01.netlify.app/
 
 ## Descripción
 Aplicación de calculadora desarrollada en React con teclado en pantalla.
